@@ -1,2 +1,2 @@
 # Joyboy.github.io
-Primer host externo
+Repositorio para el curso de lenguaje para DSS en CERTUS
